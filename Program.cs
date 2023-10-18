@@ -1,2 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("プルリクエスト");
+
+Console.WriteLine("2023/10/18");
+
+Console.WriteLine("プルリクエスト")
+
