@@ -1,6 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
-Console.WriteLine("2023/10/18");
-
-Console.WriteLine("あいうえお")
-
+Console.WriteLine("あいうえお");
