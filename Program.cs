@@ -2,5 +2,5 @@
 
 Console.WriteLine("2023/10/18");
 
-Console.WriteLine("プルリクエスト")
+Console.WriteLine("あいうえお")
 
